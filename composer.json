@@ -1,0 +1,24 @@
+{
+  "name": "de3/laravel4-payment",
+  "description": "Class to Mpay and BOC payment link.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "De3\\Laravel4Payment\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jason Hoi"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "support": {
+    "source": "https://github.com/webpatser/uuid",
+    "issues": "https://github.com/webpatser/uuid/issues"
+  }
+}
